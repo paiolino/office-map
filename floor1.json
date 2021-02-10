@@ -73,7 +73,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/floor0.json"
+                 "value":".\/floor0.json#start_stairs_E"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -91,7 +91,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/floor0.json"
+                 "value":".\/floor0.json#start_stairs_W"
                 }],
          "type":"tilelayer",
          "visible":true,
